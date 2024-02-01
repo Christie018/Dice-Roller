@@ -1,0 +1,15 @@
+C:\Users\MattieD\source\repos\Dice-Roller\Dice-Roller\bin\Debug\net8.0\Dice-Roller.exe
+C:\Users\MattieD\source\repos\Dice-Roller\Dice-Roller\bin\Debug\net8.0\Dice-Roller.deps.json
+C:\Users\MattieD\source\repos\Dice-Roller\Dice-Roller\bin\Debug\net8.0\Dice-Roller.runtimeconfig.json
+C:\Users\MattieD\source\repos\Dice-Roller\Dice-Roller\bin\Debug\net8.0\Dice-Roller.dll
+C:\Users\MattieD\source\repos\Dice-Roller\Dice-Roller\bin\Debug\net8.0\Dice-Roller.pdb
+C:\Users\MattieD\source\repos\Dice-Roller\Dice-Roller\obj\Debug\net8.0\Dice-Roller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MattieD\source\repos\Dice-Roller\Dice-Roller\obj\Debug\net8.0\Dice-Roller.AssemblyInfoInputs.cache
+C:\Users\MattieD\source\repos\Dice-Roller\Dice-Roller\obj\Debug\net8.0\Dice-Roller.AssemblyInfo.cs
+C:\Users\MattieD\source\repos\Dice-Roller\Dice-Roller\obj\Debug\net8.0\Dice-Roller.csproj.CoreCompileInputs.cache
+C:\Users\MattieD\source\repos\Dice-Roller\Dice-Roller\obj\Debug\net8.0\Dice-Roller.sourcelink.json
+C:\Users\MattieD\source\repos\Dice-Roller\Dice-Roller\obj\Debug\net8.0\Dice-Roller.dll
+C:\Users\MattieD\source\repos\Dice-Roller\Dice-Roller\obj\Debug\net8.0\refint\Dice-Roller.dll
+C:\Users\MattieD\source\repos\Dice-Roller\Dice-Roller\obj\Debug\net8.0\Dice-Roller.pdb
+C:\Users\MattieD\source\repos\Dice-Roller\Dice-Roller\obj\Debug\net8.0\Dice-Roller.genruntimeconfig.cache
+C:\Users\MattieD\source\repos\Dice-Roller\Dice-Roller\obj\Debug\net8.0\ref\Dice-Roller.dll
